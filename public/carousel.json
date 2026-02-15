@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "hero",
+    "title": "WarmPaws",
+    "description": "Welcome to WarmPaws, your trusted companion for all things pets! Discover cozy winter care services, grooming, and love for your furry family.",
+    "buttonText": "Get Started",
+    "logo": "https://img.icons8.com/color/96/cat-footprint.png"
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "img": "https://i.ibb.co.com/KxvcQcqF/pexels-introspectivedsgn-4062187.jpg"
+  },
+  {
+    "id": 3,
+    "type": "image",
+    "img": "https://i.ibb.co.com/ccGKhV4H/pexels-barnabas-davoti-31615494-31169729.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Cozy Dog Sweater",
+    "price": 20,
+    "image": "https://i.ibb.co.com/8QvctyZ/Cozy-Dog-Hoodie-Off-White-Apparel-GF-PET-GF-Pet-Official-Online-Store-1660315744-1800x.webp"
+  },
+  {
+    "id": 2,
+    "name": "Warm Cat Jacket",
+    "price": 18,
+    "image": "https://i.ibb.co.com/67QjLLvc/61phq4f-ia-L-AC-UF1000-1000-QL80.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pet Winter Boots",
+    "price": 15,
+    "image": "https://i.ibb.co.com/9kYc6PTc/Elasto-fit-Boots-GF-PET-1657630741-1800x.webp"
+  },
+  {
+    "id": 4,
+    "name": "Heated Pet Bed",
+    "price": 45,
+    "image": "https://i.ibb.co.com/LhbvX5K4/k-h-heated-cup-bed-2.webp"
+  }
+]
